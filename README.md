@@ -1,6 +1,25 @@
-# Citizen Assistance System
+# CitizenAssist – Citizen Assistance System
 
-CitizenAssist helps citizens discover assistance and manage service workflows. The current delivery establishes the frontend, FastAPI foundation, Supabase Auth/PostgREST integration, and initial database security policies.
+<p align="center">
+  <strong>One Platform. Smarter Citizen Assistance.</strong>
+</p>
+
+<p align="center">
+  🌐 Live Demo: https://citizenassist-frontend-nrx6.onrender.com
+</p>
+
+CitizenAssist is a smart citizen assistance platform designed to simplify access to public welfare information and citizen services through an integrated digital experience.
+
+### Try the Live Demo
+
+- No registration or login required.
+- Click **Explore Demo** to enter the application.
+- Explore Scheme Finder, Document Intelligence, AI Legal Assistant, Smart Forms, Application Tracking, and more.
+- Interactions use fictional sample data and browser-local demo storage.
+
+**Demo limitations:** Scheme information is illustrative and not independently verified. Document analysis and legal responses are scripted demonstrations, not live OCR or Gemini responses. Application statuses and generated forms are demonstrations, not actual government submissions.
+
+---
 
 ## Architecture
 
